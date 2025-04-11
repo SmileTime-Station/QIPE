@@ -65,10 +65,10 @@ git clone https://github.com/SmileTime-Station/QIPE.git
 We welcome contributions to the QIPE project. If you want to add new features, suggest improvements, or fix bugs, feel free to fork the repository and submit a pull request.
 
 3. Research Collaboration
-For collaboration opportunities, you can contact the project initiator via [Your Contact Information or Email]. Let’s explore how we can take this idea to the next level together!
+For collaboration opportunities, you can contact the project initiator via smiletimestation@gmail.com. Let’s explore how we can take this idea to the next level together!
 
 Acknowledgements
-This concept was originally envisioned by [Your Name] and further developed with input from the ChatGPT community. If you wish to cite this project in your research or any publications, please refer to the repository link.
+This concept was originally envisioned by  Shawn Hart and further developed with input from the ChatGPT community. If you wish to cite this project in your research or any publications, please refer to the repository link.
 
 Contact
 Shawn Hart
