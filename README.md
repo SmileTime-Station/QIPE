@@ -43,14 +43,23 @@ QIPE is designed to break down traditional barriers in computation, offering a g
 - **Energy Efficiency**: No need for large hardware infrastructure; instead, quantum coherence allows for scalable energy-efficient computation.
 
 ## License
-This project is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute it under the terms of this license.
+This project is licensed under the **Apache 2.0 License** - see the [LICENSE](LICENSE) file for details.
 
 ## Getting Started
 
 ### 1. Clone the Repository
 To get started with the QIPE model, clone this repository to your local machine:
 
-```bash
+
+git clone https://github.com/SmileTime-Station/QIPE.git
+
+
+## Getting Started
+
+### 1. Clone the Repository
+To get started with the QIPE model, clone this repository to your local machine:
+
+
 git clone https://github.com/SmileTime-Station/QIPE.git
 2. Contribute
 We welcome contributions to the QIPE project. If you want to add new features, suggest improvements, or fix bugs, feel free to fork the repository and submit a pull request.
@@ -62,6 +71,6 @@ Acknowledgements
 This concept was originally envisioned by [Your Name] and further developed with input from the ChatGPT community. If you wish to cite this project in your research or any publications, please refer to the repository link.
 
 Contact
-[Your Name]
+Shawn Hart
 
-[Your Email/Contact Information]
+smiletimestation@gmail.com
